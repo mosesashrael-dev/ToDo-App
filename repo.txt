@@ -1,0 +1,13 @@
+============================================================
+INFORMASI REPOSITORI 
+============================================================
+Branch Utama : Main
+Framework    : Laravel v12.12.2
+Database     : MySQL
+
+
+
+Link Repositori GitHub (Publik):
+
+https://github.com/mosesashrael-dev/ToDo-App.git
+
